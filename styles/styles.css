@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Kelly+Slab&display=swap');
+
+html {
+  font-size: 20px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: 'Kelly Slab', cursive;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;    
+  color: #08E8DE;
+  text-shadow: 3px 3px 1px black;
+}
+
+p {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #2A5C03;
+}
+li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #660099;
+}
+html {
+  background-color: #F19CBB;
+ background: #000 url(https://avatars.mds.yandex.net/get-pdb/2508630/0f18d41a-cb61-4d58-b40d-aebe0a4aa70e/s1200); /* Фоновый цвет и фоновый рисунок*/
+}
+h2 {
+  font-size: 70px;
+  text-align: center;
+  color: #660099;
+  text-shadow: 3px 3px 1px black;
+}
+body {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #F64A46;
+  padding: 0 100px 100px 100px;
+  border: 5px solid yellow;
+  align-items: center;
+
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
